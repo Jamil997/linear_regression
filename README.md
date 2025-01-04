@@ -55,12 +55,7 @@ To determine whether a linear regression model can reliably predict a dependent 
 - The model is well-defined and interpretable, but potential overfitting needs to be addressed.
 - Residual diagnostics suggest the model adheres closely to assumptions, with minor issues related to heteroscedasticity.
 
----
 
-## Future Work
-1. Explore transformations or weighted regression to address heteroscedasticity.
-2. Conduct cross-validation to assess generalizability and detect overfitting.
-3. Investigate additional predictors or interaction terms to improve the model's robustness.
 
 ---
 
