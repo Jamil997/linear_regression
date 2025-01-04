@@ -61,6 +61,6 @@ To determine whether a linear regression model can reliably predict a dependent 
 
 ## Visual Results
 For detailed analysis and visualizations, refer to the linked Jupyter Notebook:
-- [View Analysis and Visual Results](MATH_541_Jamil_Zhumabek.ipynb)
+- [View Analysis and Visual Results](https://github.com/Jamil997/linear_regression/blob/main/linear_regression.ipynb)
 
 
